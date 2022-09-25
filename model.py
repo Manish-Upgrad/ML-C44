@@ -8,3 +8,6 @@ class model():
 
 	def predict(self):
 		pass
+
+	def master_func(self):
+		pass
